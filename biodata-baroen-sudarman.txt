@@ -1,0 +1,3 @@
+"Nama Lengkap: Baroen Sudarman" 
+"Jenis Kelamin: Laki-laki" 
+"Alamat : Provinsi Gorontalo"
